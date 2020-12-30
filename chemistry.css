@@ -1,0 +1,54 @@
+
+.navbar{
+    background-image:url(https://i.pinimg.com/originals/e1/59/f4/e159f454b9411d0e92b6395b52258606.gif);
+}
+.navbar-brand{
+    color: white !important;
+}
+.nav-link{
+    color: white !important;
+    font-size: 20px;
+    margin: 20px;
+    display: inline-block;
+}
+.dropdown-menu
+{
+    background-image:url(https://cdn-3d.niceshops.com/upload/image/product/large/default/vallejo-game-color-gold-yellow-17-ml-279613-en.jpg);
+}
+
+@media all and (max-width:700px){
+	.myP {
+		padding:2%;
+	}
+}
+// Extra small devices (portrait phones, less than 576px)
+// No media query for `xs` since this is the default in Bootstrap
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) { ... }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
+.card-body{
+
+    color: white !important;
+    background-color: black !important;
+
+}
+.card{
+    display: inline;
+}
+.card-text{
+    font-size: 50px;
+    text-align: center;
+}
+.card-title{
+    font-size: 50px;
+    text-align: center;
+}
